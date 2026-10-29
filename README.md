@@ -84,8 +84,10 @@ Diferentemente de um projeto acadêmico ou conceito de portfólio, esta aplicaç
 
 ---
 
-## 👨‍💻 Desenvolvedor
+## 👨‍💻 Desenvolvedores
 
 **Lincoln Valgas**
+**Henrique Fernandes**
 
 [GitHub — LincolnValgas](https://github.com/LincolnValgas)
+[Github — Henriquefernandes](https://github.com/luizhenriquelopesfernandes01-lab)
